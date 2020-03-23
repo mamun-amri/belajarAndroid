@@ -14,14 +14,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".BreakGame"
+            android:name=".MainActivity"
             android:label="@string/title_activity_break_game"></activity>
         <!-- Include the AdActivity configChanges and theme. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".BreakGame">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

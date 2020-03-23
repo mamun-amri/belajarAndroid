@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">codeVerification</string>
+    <string name="keterangan">We already sent unique code \n
+    that you can use for verify</string>
+</resources>

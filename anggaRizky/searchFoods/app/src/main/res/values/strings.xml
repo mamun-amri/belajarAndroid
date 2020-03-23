@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">searchFoods</string>
+    <string-array name="my_foods">
+        <item>makaroni</item>
+        <item>kripik</item>
+        <item>jengki</item>
+        <item>kerupuk</item>
+        <item>belinjo</item>
+    </string-array>
+</resources>
